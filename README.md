@@ -41,9 +41,10 @@ Since then, I’ve been exploring new technologies, building projects, and chall
 ---
 
 ## 📊 GitHub Stats
-![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayvuranok&show_icons=true&theme=tokyonight)  
+![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkayvuranok&show_icons=true&theme=tokyonight&cache_seconds=3600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayvuranok&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayvuranok&layout=compact&theme=tokyonight&cache_seconds=3600)
+
 
 ---
 
