@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayvuranok&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9&icon_color=FF0000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayvuranok&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=berkayvuranok&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9&icon_color=FF0000" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayvuranok&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9" width="49%"/>
 </p>
 
 <p align="center">
@@ -46,8 +46,6 @@
 
 ---
 
-
-
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -55,4 +53,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
