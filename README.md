@@ -18,9 +18,9 @@
 
 ### What I Build
 
-* **OSMEA — MasterFabric S Store -** <a href="https://apps.apple.com/tr/app/masterfabric-s-store/id6758958857?l=tr"> <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="18" alt="Download on the App Store"> </a> <a href="https://play.google.com/store/apps/details?id=com.masterfabric.storefrontSupabase"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="18" alt="Get it on Google Play"> </a>
+* **OSMEA — MasterFabric S Store -** <a href="https://apps.apple.com/tr/app/masterfabric-s-store/id6758958857?l=tr"> <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="21" alt="Download on the App Store"> </a> <a href="https://play.google.com/store/apps/details?id=com.masterfabric.storefrontSupabase"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="21" alt="Get it on Google Play"> </a>
 
-* **YKS YOL HARİTASI-** <a href="https://lnkd.in/e4SZpJSn"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="18" alt="Get it on Google Play"> </a>
+* **YKS YOL HARİTASI-** <a href="https://lnkd.in/e4SZpJSn"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="21" alt="Get it on Google Play"> </a>
 
 
 ### Technical Stack
