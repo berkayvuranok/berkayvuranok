@@ -18,7 +18,10 @@
 
 ### What I Build
 - **OSMEA — MasterFabric S Store**
-- **YKS YOL HARİTASI**
+- **YKS YOL HARİTASI** ·
+  <a href="https://lnkd.in/e4SZpJSn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="32" alt="Google Play">
+  </a>
  
 
 ### Technical Stack
